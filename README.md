@@ -6,4 +6,4 @@ The design and code (with modifications) was taken from [DigitalOcean's login pa
 
 
 
-![ScreenShot](https://raw.github.com/Trailingslashes/bloc.io-Signup-Form-Challenege/master/screenshot.png
+![ScreenShot](https://raw.github.com/Trailingslashes/bloc.io-Signup-Form-Challenege/master/screenshot.png)
